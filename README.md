@@ -20,3 +20,8 @@ In my case I decided to use 4 datasets, all related to Ontario, and all included
 Everything project related is include in the folder, Feel free to explore the "Final_Project" and use it as an example to get an ideas.
 
 <img width="474" alt="Cp321_final project req" src="https://user-images.githubusercontent.com/97003266/228381502-5677a8e6-25df-4f0a-849e-772c64f9b81e.png">
+
+
+### *Note*
+Submit everything in jupyter notebook (.ipynb), download extension on VScode and everything is good. 
+Got full marks on A1, A2, feel free to use as a guidelines
